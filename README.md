@@ -35,7 +35,9 @@ This project analyzes ultra marathon race data from the USA in 2020, focusing on
 
 ## Example Visualizations
 
-![Example Plot](https://seaborn.pydata.org/_images/seaborn-scatterplot-1.png)
+![Example Plot](/1.png)
+![Example Plot](/2.png)
+![Example Plot](/3.png)
 
 ## Insights
 
