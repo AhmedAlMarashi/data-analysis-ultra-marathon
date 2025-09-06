@@ -43,6 +43,7 @@ This project analyzes ultra marathon race data from the USA in 2020, focusing on
 
 - Which gender, age group, and season are associated with the fastest performances?
 - How do trends differ between 50km and 50mi events?
+- Which season has the best performance ?
 
 ## License
 
